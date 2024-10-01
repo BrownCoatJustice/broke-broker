@@ -1,0 +1,10 @@
+START
+METHOD: main:
+	// Setup companies
+	/* Companies divided into types: Automobile, Ecommerce, Retail,
+Consulting, Industry. Basically smth like Automobile extends Company.
+	Each Company has: name, assets, products, hype
+	Hype affects how much is bought/consumed. Products responsible for 
+usage and aid in growth.
+	*/
+	
