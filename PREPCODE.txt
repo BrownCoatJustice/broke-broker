@@ -13,30 +13,28 @@ METHOD: growth:
 Growth=(hype+assets+products+reliability)×company type modifier×random variation
 Growth=(hype+assets+products+reliability)×company type modifier×random variation
 
-    hype, assets, products, and reliability are variables you've already defined for the company.
-    company type modifier introduces the strengths/weaknesses of each type.
-    random variation adds unpredictability.
+   	/* Hype, assets, products, and reliability are variables you've already defined for the company.
+    	company type modifier introduces the strengths/weaknesses of each type. Random variation adds unpredictability.
+	*/
+	Modifiers Based on Company Type:
 
-Modifiers Based on Company Type:
-
-    Vehicular:
-        Suffer in hype due to environmental issues, so their growth would be reduced based on that factor.
-    Growth multiplier=0.9×random(0.8, 1.2)
-    Growth multiplier=0.9×random(0.8, 1.2)
-    Ecommerce:
-        Suffer in assets, so they may have higher growth potential but with fluctuations.
-    Growth multiplier=1.1×random(0.6, 1.4)
-    Growth multiplier=1.1×random(0.6, 1.4)
-    Retail:
-        Suffer in reliability, meaning their growth would have sudden drops or be more volatile.
-    Growth multiplier=0.95×random(0.7, 1.5)
-    Growth multiplier=0.95×random(0.7, 1.5)
-    Consulting:
-        Suffer in products, but with higher reliability and lower growth potential.
-    Growth multiplier=1.05×random(0.9, 1.3)
-    Growth multiplier=1.05×random(0.9, 1.3)
-    Industry:
-        Suffer in hype but have stable assets and products, leading to more gradual growth.
-    Growth multiplier=0.85×random(0.8, 1.1)
-    Growth multiplier=0.85×random(0.8, 1.1)
-	
+	    Vehicular:
+	        Suffer in hype due to environmental issues, so their growth would be reduced based on that factor.
+	    Growth multiplier=0.9×random(0.8, 1.2)
+	    Growth multiplier=0.9×random(0.8, 1.2)
+	    Ecommerce:
+	        Suffer in assets, so they may have higher growth potential but with fluctuations.
+	    Growth multiplier=1.1×random(0.6, 1.4)
+	    Growth multiplier=1.1×random(0.6, 1.4)
+	    Retail:
+	        Suffer in reliability, meaning their growth would have sudden drops or be more volatile.
+	    Growth multiplier=0.95×random(0.7, 1.5)
+	    Growth multiplier=0.95×random(0.7, 1.5)
+	    Consulting:
+	        Suffer in products, but with higher reliability and lower growth potential.
+	    Growth multiplier=1.05×random(0.9, 1.3)
+	    Growth multiplier=1.05×random(0.9, 1.3)
+	    Industry:
+	        Suffer in hype but have stable assets and products, leading to more gradual growth.
+	    Growth multiplier=0.85×random(0.8, 1.1)
+	    Growth multiplier=0.85×random(0.8, 1.1)
