@@ -1,2 +1,2 @@
 # broke-broker
-Broke &amp; Broker is a CLI-based RPG* where you’ll navigate the wild rollercoaster of stock trading—where one minute you’re a genius, and the next, you’re asking, “What’s a stock?”
+"bhugarbh, scoot, shcomp" went the trader's gut when he saw red on the Ceiling Street jumbotron.
