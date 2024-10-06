@@ -5,7 +5,7 @@
 package com.github.browncoatjustice.brokebroker;
 
 /**
- *
+ * Class for the Vehicular type of the company, subclass of the Company class.
  * @author habis
  */
 public class Vehicular extends Company {
